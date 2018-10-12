@@ -34,7 +34,14 @@
       "ec2:RegisterImage",
       "ec2:RunInstances",
       "ec2:StopInstances",
-      "ec2:TerminateInstances"
+      "ec2:TerminateInstances",
+      "ssm:PutParameter",
+      "ssm:DeleteParameter",
+      "ssm:GetParameterHistory",
+      "ssm:GetParametersByPath",
+      "ssm:GetParameters",
+      "ssm:GetParameter",
+      "ssm:DeleteParameters"
     ],
     "Resource" : "*"
   }]
