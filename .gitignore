@@ -71,3 +71,8 @@ fabric.properties
 /env.rc
 /terraform/terraform.tfvars
 /eksconfig
+.idea/aws-iaas-accounts.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml

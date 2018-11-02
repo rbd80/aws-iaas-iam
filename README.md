@@ -42,14 +42,14 @@ update the policy json files here.  And rerun the bootstrap and select the first
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/rbdgsa/aws-iaas-iam/issues), send us an [email](mailto:robert.donovan@gsa.gov).
+File a GitHub [issue](https://github.com/rbdgsa/aws-iaas-iam/issues), send us an [email](mailto:robert.donovan@rxd.io).
 
 
 ## Contributing
 
 ### Bug Reports & Feature Requests
 
-Please use the [issue tracker](https://github.com/rbd80/terraform-aws-ami-secure/issues) to report any bugs or file feature requests.
+Please use the [issue tracker](https://github.com/rbd80/aws-iaas-iam/issues) to report any bugs or file feature requests.
 
 ### Developing
 
