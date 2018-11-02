@@ -84,7 +84,7 @@ function delete_iaas_accounts {
         delete_policy
     done
     aws iam delete-group --group-name $ADMIN_GROUP --profile $AWS_PROFILE
-    #TODO I know this is back, but I don't know how to do manage aws creds any better
+    #TODO I know this is bad, but I don't know how to do manage aws creds any better
     cp ~/.aws/credentials.backup ~/.aws/credentials
 
 }
